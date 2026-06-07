@@ -1,6 +1,7 @@
 # Hi, I'm Aditya 👋
 
 Computer Science student interested in software development, Linux, and problem solving.
+Computer Science student at IIIT Kalyani interested in software development, Linux, cybersecurity and problem solving.
 
 ## Technologies
 - C
