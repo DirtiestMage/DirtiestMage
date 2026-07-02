@@ -15,10 +15,11 @@ Computer Science student at IIIT Kalyani interested in software development, Lin
 
 ## Currently Learning
 - Data Structures & Algorithms
-- Linux
 - Object-Oriented Programming
+- MERN
 
 ## Goals
 - Build better projects
+- Build portfolio website
 - Contribute to open source
 - Land my first internship
